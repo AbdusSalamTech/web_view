@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WebView</string>
+    <string name="url">https://apps.jummania.com/</string>
 </resources>
